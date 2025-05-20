@@ -1,5 +1,7 @@
 # Favorite Recipe
 
+Створено за матеріалами компанії ТОВ"GoIT"
+
 [![Star this repo](https://img.shields.io/github/stars/ViktorPro1/Favorite-recipe?style=social)](https://github.com/ViktorPro1/Favorite-recipe/stargazers)
 
 🔗 **[Переглянути сайт](https://viktorpro1.github.io/Favorite-recipe/)**
